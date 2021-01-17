@@ -1,0 +1,9 @@
+To import Drugs Table:
+•	Drugname: 500 varchar
+•	Rest: 250 varchar
+•	Lot number to text 
+
+Note: FAERS data format (new fields have been included) is little changed from 2015 onwards.
+Post-Processing
+•	Connecting rules to report Ids
+•	Format Drugs & SideEffects
